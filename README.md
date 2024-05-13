@@ -30,3 +30,8 @@
 `quantization( levels =8 ) | bilateral((7,7) ,20) | image(300,300) | iter=2 | iter=4`
 
 ![](bilateral_and_Quantization_color/hillstation20_quant.jpg)
+
+Imp Papers used :
+
+1. [XDoG: AneXtended difference-of-Gaussians compendium including advanced image stylization](https://users.cs.northwestern.edu/~sco590/winnemoeller-cag2012.pdf)
+2. [Image Abstraction by Structure Adaptive Filtering](https://hpi.de/fileadmin/user_upload/fachgebiete/doellner/publications/2008/KD08b/jkyprian-tpcg2008.pdf)
