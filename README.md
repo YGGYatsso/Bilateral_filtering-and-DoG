@@ -35,3 +35,7 @@ Imp Papers used :
 
 1. [XDoG: AneXtended difference-of-Gaussians compendium including advanced image stylization](https://users.cs.northwestern.edu/~sco590/winnemoeller-cag2012.pdf)
 2. [Image Abstraction by Structure Adaptive Filtering](https://hpi.de/fileadmin/user_upload/fachgebiete/doellner/publications/2008/KD08b/jkyprian-tpcg2008.pdf)
+
+- [x] Bilateral filter/XY separable. :tada:
+- [x] Quantization. :tada:
+- [ ] Flow DoG.
