@@ -15,7 +15,7 @@
 
 ### Bilateral and Quantization (Grayscale and Colored images)
 
-`iteration :4 | bilateral (spatial filtersize (7,7) , radial stddev 20)  image(300,300) | iter=2 | iter=4`
+`iteration :4 | bilateral (spatial filtersize (7,7) , radial stddev 10)  image(300,300) | iter=2 | iter=4`
 
 ![](gray_scale_bilateral_and_quantization/nightime10_stack.jpg)
 
